@@ -4,6 +4,8 @@
 - I am currently learning trajectory optimization, anmations using Matlab, and animations using Python as well.
 - The best way to reach me is by email: djlabuda67@gmail.com
 - I will also be posting my prior projects in SolidWorks and Abaqus.
+- Currently I have replicated demos I have seen from other github projects.
+- My own personal projects currently include, in Cosmographia, producing and developing a Fly-by close-up animation of Voyager 2 as well as the trajectories of both voyager 1 and voyager 2 using spice kernels from the NAIF Website.
 
 <!---
 djlabuda/djlabuda is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
