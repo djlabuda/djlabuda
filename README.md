@@ -18,7 +18,7 @@ Welcome to my portfolio of ongoing and completed projects! This repository conta
 - **SPICE Kernels**: Utilizing data from NASA’s SPICE toolkit to generate accurate space mission simulations.
 - **MATLAB**: For trajectory optimization and visualizations.
 - **Python**: For creating animations and performing data analysis.
-- **SolidWorks & Abaqus**: I will also be sharing my prior work in CAD design and structural simulations.
+- **SolidWorks & ANSYS**: I will also be sharing my prior work in CAD design and structural simulations.
 
 ## Repositories
 
