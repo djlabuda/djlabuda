@@ -1,4 +1,4 @@
-# Hello, I am @djlabuda
+# Hello, I am @djlabuda!
 This is my portfolio of current projects I am developing. Contained within this portfolio is two different repositories consisting of astrodynamic related projects and other aerodynamic related projects.
 
 ## Dependencies 
