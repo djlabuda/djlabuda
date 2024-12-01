@@ -10,7 +10,7 @@ Welcome to my portfolio of ongoing and completed projects! This repository conta
 
 - **Cosmographia Projects**: I am creating and working with my own `.bsp`, `.json`, and `.py` files to generate 3D animations of spacecraft trajectories. These animations are based on real mission data, and I’m using tools like the NAIF SPICE toolkit to model spacecraft trajectories.
 
-- **Voyager Mission Visualization**: I’m working on developing a detailed fly-by close-up animation of Voyager 2, as well as modeling and visualizing the trajectories of both Voyager 1 and Voyager 2 using SPICE kernels from the [NASA NAIF](https://naif.jpl.nasa.gov) website.
+- **Voyager Mission Visualization**: I’ve already developed a detailed fly-by close-up animation of Voyager 2, as well as modeling and visualizing the trajectories of both Voyager 1 and Voyager 2 using SPICE kernels from the [NASA NAIF](https://naif.jpl.nasa.gov) website.
 
 ## Skills and Tools
 
